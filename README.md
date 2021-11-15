@@ -1,4 +1,4 @@
-# Node-Weather-App
+# Weather App
 
 An application for selling ebooks.
 
