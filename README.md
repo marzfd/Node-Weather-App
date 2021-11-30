@@ -1,7 +1,5 @@
 # Weather App
 
-An application for selling ebooks.
-
 Using NodeJs, Express, and the [OpenWeather API](https://openweathermap.org/api).
 
 ### Live App:
